@@ -20,9 +20,7 @@ Tempat terbaik adalah [twitter](https://www.twitter.com/aditya_dst)
 
 **Pernah muncul di**:
 
-NET TV
-PasFM
-Travel360 AirAsia
+NET TV, PasFM, Travel360 AirAsia
 
 **5 artikel/buku yang di baca ulang secara reguler:**
 
