@@ -12,7 +12,7 @@ Penggemar olahraga, terutama basket. Tertarik dengan bisnis, internet, olahraga,
 
 **Yang lagi di kerjakan**:
 
-Silahkan ke halaman ini -> [Present](/present)
+Silahkan ke halaman ini -> [Now](/now)
 
 **Cara menghubungi**:
 
