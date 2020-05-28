@@ -1,10 +1,7 @@
 ---
 layout: page
-title: I Write, Therefore I Think
+title: Hey.
 ---
-
-Hey.
-
 
 **Aditya dalam 10 detik**:
 
