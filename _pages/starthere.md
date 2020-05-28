@@ -24,7 +24,7 @@ NET TV, PasFM, Travel360 AirAsia
 
 **5 artikel/buku yang di baca ulang secara reguler:**
 
-[First Principle: The Building Blocks of True Knowledge](https://fs.blog/2018/04/first-principles/)
+[First Principle: The Building Blocks of True Knowledge](https://fs.blog/2018/04/first-principles/) & [here's my summary on it](https://adityads.com/2020/05/29/summary-first-principle)
 
 [The Cook and the Chef: Musk’s Secret Sauce](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
 
