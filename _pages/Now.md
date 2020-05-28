@@ -16,7 +16,7 @@ Main game di Nintendo Switch atau PS4, biasanya sambil dengerin podcast.
 
 Baca buku atau artikel-artikel seru. 
 
-Terkadang hangout di saat subuh.
+Terkadang hangout sampe subuh.
 
 
 **Ide yang ingin di kerjakan**:
