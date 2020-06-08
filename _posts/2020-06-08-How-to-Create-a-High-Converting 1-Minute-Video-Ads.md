@@ -5,29 +5,23 @@ description: 4 key points on creating video ads
 summary:
 tags: [marketing]
 ---
-(inspiration source: Mark William on Twitter)
-
 Four must have components on your video ads:
 
-**Hook** – opener/attention grabber.
-**Agitate** – ask a question/show transformation/identify problem.
-**Solution** – what you are offering.
-**Call to Action** – what you want your audience to do.
+**Hook** – opener/attention grabber.\
+**Agitate** – ask a question/show transformation/identify problem.\
+**Solution** – what you are offering.\
+**Call to Action** – what you want your audience to do.\
 
 ### Hook (First 3 seconds)
-Should be short and simple. This is where most audiences are lost. So grab their attention -- and keep it.
+Should be short and simple. This is where most audiences are lost. So grab their attention -- and keep it. Here's a do and don't:
 
-Here's a do and don't:
-
-Do: Open up with a story or ask a controversial question or something else. E.g. "I have bad news...". Anything that grabs their attention to stop them from scrolling.
-
-Don't: introduce who you are or start the video with a logo. This isn't about you, this is about your audience.
+-Do: Open up with a story or ask a controversial question or something else. E.g. "I have bad news...". Anything that grabs their attention to stop them from scrolling.
+-Don't: introduce who you are or start the video with a logo. This isn't about you, this is about your audience.
 
 Example:
 
-SATU CELANA SEMUA AKTIVITAS
-CELANA DENGAN 1,000 TESTIMONIAL BINTANG 5
-TIRED WITH YOUR JEANS?
+SATU CELANA SEMUA AKTIVITAS.\
+CELANA DENGAN 1,000 TESTIMONIAL BINTANG 5.\
 
 ### Agitation (Next 3-10 seconds)
 This is where you start to build up their emotions (fears, desires, etc.):
@@ -41,8 +35,8 @@ This is where you start to build up their emotions (fears, desires, etc.):
 
 Example:
 
-MASIH PAKE BAJU KEDODORAN?
-HP GOYANG PAS LARI?
+MASIH PAKE BAJU KEDODORAN?\
+HP GOYANG PAS LARI?\
 
 ### Solution (Next 10-25s)
 The goal here is to paint a picture of the solution (your offer) and how it can help your audience can make their goals and dreams a reality. 
@@ -62,8 +56,8 @@ Use these questions as a guide to craft the perfect CTA:
  
 Example:
 
-SHOP NOW
-BELI SEBELUM KEHABISAN
+SHOP NOW\
+BELI SEBELUM KEHABISAN\
 
 #### Example on ads that applied these 4 points:
 [Video ads creative inspiration](https://www.evernote.com/l/AWDFq9qYgL5Nz4crS2V4xX78IMa3u8WZqVQ)
@@ -71,3 +65,5 @@ BELI SEBELUM KEHABISAN
 
 #### Related reading:
 [Psychology of social media](https://www.evernote.com/l/AWD0hHYu7idKl6HZbPVUy-ftklJJ_hEGJ0w)
+
+#### (inspiration source: Mark William on Twitter)
