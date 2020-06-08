@@ -1,5 +1,10 @@
-# How to Create a High-Converting 1-Minute Video Ads
-
+---
+layout: post
+title: How to Create a High Converting 1-Minute Video Ads
+description: 4 key points on creating video ads
+summary:
+tags: [css]
+---
  *Will also work for 30 and 15 seconds ads (inspiration source: Mark William on Twitter)
  
 4 must have components on your video ads: 
@@ -7,7 +12,7 @@
 2. **Agitate** – ask a question/show transformation/identify problem.
 3. **Solution** – what you are offering.
 4. **Call to Action** – what you want your audience to do.
----
+
 ### Hook (First 3 seconds)
 Should be short and simple. This is where most audiences are lost. So grab their attention -- and keep it.
 
