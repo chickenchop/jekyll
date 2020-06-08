@@ -15,11 +15,10 @@ Four must have components on your video ads:
 ### Hook (First 3 seconds)
 Should be short and simple. This is where most audiences are lost. So grab their attention -- and keep it. Here's a do and don't:
 
--Do: Open up with a story or ask a controversial question or something else. E.g. "I have bad news...". Anything that grabs their attention to stop them from scrolling.
--Don't: introduce who you are or start the video with a logo. This isn't about you, this is about your audience.
+- Do: Open up with a story or ask a controversial question or something else. E.g. "I have bad news...". Anything that grabs their attention to stop them from scrolling.
+- Don't: introduce who you are or start the video with a logo. This isn't about you, this is about your audience.
 
-Example:
-
+Example:<br>
 SATU CELANA SEMUA AKTIVITAS.<br>
 CELANA DENGAN 1,000 TESTIMONIAL BINTANG 5.<br>
 
@@ -33,10 +32,8 @@ This is where you start to build up their emotions (fears, desires, etc.):
 		- Excitement 
 - Naturally lead them to look for a solution. This will help you transition to the next step, which is to describe the solution.
 
-Example:
-
-MASIH PAKE BAJU KEDODORAN?<br>
-HP GOYANG PAS LARI?<br>
+Example:<br>
+HP GOYANG PAS LARI? NGGA LAGI KALAU PAKE INI..
 
 ### Solution (Next 10-25s)
 The goal here is to paint a picture of the solution (your offer) and how it can help your audience can make their goals and dreams a reality. 
@@ -44,9 +41,8 @@ The goal here is to paint a picture of the solution (your offer) and how it can 
 - Explain how/why it works. 
 - Describe how it will change their lives.
  
-Example:
-
-FITUR PRODUK - slim fit, stretch, kantong zipper, menyerap keringat. 
+Example:<br>
+FITUR PRODUK - slim fit, secure pockets. 
 
 ### CTA (Last few seconds of the video)
 Use these questions as a guide to craft the perfect CTA:
@@ -54,8 +50,7 @@ Use these questions as a guide to craft the perfect CTA:
 - Should you use a soft CTA or a hard CTA?
 - What should they expect after clicking on your ad?
  
-Example:
-
+Example:<br>
 SHOP NOW<br>
 BELI SEBELUM KEHABISAN<br>
 
