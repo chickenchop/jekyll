@@ -7,10 +7,10 @@ tags: [marketing]
 ---
 Four must have components on your video ads:
 
-**Hook** – opener/attention grabber.\
-**Agitate** – ask a question/show transformation/identify problem.\
-**Solution** – what you are offering.\
-**Call to Action** – what you want your audience to do.\
+**Hook** – opener/attention grabber.<br>
+**Agitate** – ask a question/show transformation/identify problem.<br>
+**Solution** – what you are offering.<br>
+**Call to Action** – what you want your audience to do.<br>
 
 ### Hook (First 3 seconds)
 Should be short and simple. This is where most audiences are lost. So grab their attention -- and keep it. Here's a do and don't:
@@ -20,8 +20,8 @@ Should be short and simple. This is where most audiences are lost. So grab their
 
 Example:
 
-SATU CELANA SEMUA AKTIVITAS.\
-CELANA DENGAN 1,000 TESTIMONIAL BINTANG 5.\
+SATU CELANA SEMUA AKTIVITAS.<br>
+CELANA DENGAN 1,000 TESTIMONIAL BINTANG 5.<br>
 
 ### Agitation (Next 3-10 seconds)
 This is where you start to build up their emotions (fears, desires, etc.):
@@ -35,8 +35,8 @@ This is where you start to build up their emotions (fears, desires, etc.):
 
 Example:
 
-MASIH PAKE BAJU KEDODORAN?\
-HP GOYANG PAS LARI?\
+MASIH PAKE BAJU KEDODORAN?<br>
+HP GOYANG PAS LARI?<br>
 
 ### Solution (Next 10-25s)
 The goal here is to paint a picture of the solution (your offer) and how it can help your audience can make their goals and dreams a reality. 
@@ -56,8 +56,8 @@ Use these questions as a guide to craft the perfect CTA:
  
 Example:
 
-SHOP NOW\
-BELI SEBELUM KEHABISAN\
+SHOP NOW<br>
+BELI SEBELUM KEHABISAN<br>
 
 #### Example on ads that applied these 4 points:
 [Video ads creative inspiration](https://www.evernote.com/l/AWDFq9qYgL5Nz4crS2V4xX78IMa3u8WZqVQ)
