@@ -19,9 +19,9 @@ Should be short and simple. This is where most audiences are lost. So grab their
 
 Here's a do and don't:
 
-Do: Open up with a story (You can use the phrase: "When I was...") or ask a controversial question or something else. E.g. "I have bad news...". Anything that **grabs their attention to stop them from scrolling.**
+Do: Open up with a story or ask a controversial question or something else. E.g. "I have bad news...". Anything that grabs their attention to stop them from scrolling.
 
-Don't: introduce who you are or start the video with a logo. **This isn't about you, this is about your audience.**
+Don't: introduce who you are or start the video with a logo. This isn't about you, this is about your audience.
 
 Example:
 
