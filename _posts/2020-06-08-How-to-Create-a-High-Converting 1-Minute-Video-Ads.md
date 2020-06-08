@@ -10,11 +10,8 @@ tags: [marketing]
 Four must have components on your video ads:
 
 **Hook** – opener/attention grabber.
-
 **Agitate** – ask a question/show transformation/identify problem.
-
 **Solution** – what you are offering.
-
 **Call to Action** – what you want your audience to do.
 
 ### Hook (First 3 seconds)
@@ -29,9 +26,7 @@ Don't: introduce who you are or start the video with a logo. **This isn't about 
 Example:
 
 SATU CELANA SEMUA AKTIVITAS
-
 CELANA DENGAN 1,000 TESTIMONIAL BINTANG 5
-
 TIRED WITH YOUR JEANS?
 
 ### Agitation (Next 3-10 seconds)
@@ -47,7 +42,6 @@ This is where you start to build up their emotions (fears, desires, etc.):
 Example:
 
 MASIH PAKE BAJU KEDODORAN?
-
 HP GOYANG PAS LARI?
 
 ### Solution (Next 10-25s)
@@ -57,6 +51,7 @@ The goal here is to paint a picture of the solution (your offer) and how it can 
 - Describe how it will change their lives.
  
 Example:
+
 FITUR PRODUK - slim fit, stretch, kantong zipper, menyerap keringat. 
 
 ### CTA (Last few seconds of the video)
@@ -66,6 +61,7 @@ Use these questions as a guide to craft the perfect CTA:
 - What should they expect after clicking on your ad?
  
 Example:
+
 SHOP NOW
 BELI SEBELUM KEHABISAN
 
