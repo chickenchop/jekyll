@@ -7,7 +7,7 @@ title: Yang Lagi di Kerjakan
 
 90% energi sedang di curahkan untuk mengembangkan [Atalon Activewear](https://www.atalon.id).
 
-Sisanya sih untuk membantu bisnis agency yang dibangun oleh Daniel [Grand Slam](tiktok.com/@grandslam.id). 
+Sisanya sih untuk membantu bisnis agency yang dibangun oleh Daniel [Grand Slam](https://www.tiktok.com/@grandslam.id). 
 
 
 **Waktu bersantai**:
