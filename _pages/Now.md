@@ -7,7 +7,7 @@ title: Yang Lagi di Kerjakan
 
 90% energi sedang di curahkan untuk mengembangkan [Atalon Activewear](https://www.atalon.id).
 
-Sisanya untuk menulis di sini dan terkadang berkontribusi di halaman instagram [@fansbasketindonesia](https://www.instagram.com/fansbasketindonesia) dan [websitenya](https://www.fansbasket.org).
+Sisanya sih untuk membantu bisnis agency yang dibangun oleh Daniel [Grand Slam](tiktok.com/@grandslam.id). 
 
 
 **Waktu bersantai**:
@@ -15,8 +15,6 @@ Sisanya untuk menulis di sini dan terkadang berkontribusi di halaman instagram [
 Main game di Nintendo Switch atau PS4, biasanya sambil dengerin podcast.
 
 Baca buku atau artikel-artikel seru. 
-
-Terkadang hangout sampe subuh.
 
 
 **Ide yang ingin di kerjakan**:
