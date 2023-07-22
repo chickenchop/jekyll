@@ -10,8 +10,14 @@ tags: [css]
 ### Data is KING! 
 Karyawan mereka 40% nya bekerja di divisi Technology, padahal jualannya produk beauty. Klaimnya adalah mereka sudah punya 1 MILIAR unique data points dari 4 JUTA customer mereka. Udah jelas ya mereka ga pake Microsoft Excel karena pasti ga kuat...
 
-### Insights 
-Sebisa mungkin cari dan kumpulkan data-data penting customermu supaya bisa diproses untuk menghasilkan sebuah insight. Caranya bisa dengan bikin Landing Page yang berbentuk quiz seperti yang dilakukan Oddity Group. Atau sesimpel survey dan 1-on-1 call dengan customermu..
+### The Numbers 
+Beberapa angka finansial mereka yang sangat impressive:
+- 2020: $110.6m sales @ $11.7m net income
+- 2021: $226.6m sales @ $13.9m net income
+- 2022: $324.5m sales @ $21.7m net income
+- Gross Margin 70%
+- EBITDA Margin 12%
+- 6-months Customer Repeat Rate Hampir 60%
 
 ### Websitenya Berbentuk Quiz
 Dan ga kagetnya, semua iklan digital mereka landing pagenya adalah QUIZ. Yes, SEMUA IKLAN... Bayangin aja dengan budget advertising mereka yang sebesar $90juta tiap tahunnya, semuanya dilempar ke sebuah QUIZ. Gimana ga punya data points yang banyak...
