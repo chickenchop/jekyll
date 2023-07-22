@@ -20,7 +20,7 @@ Beberapa angka finansial mereka yang sangat impressive:
 - 6-months Customer Repeat Rate Hampir 60%
 
 ### Websitenya Berbentuk Quiz
-Dan ga kagetnya, semua iklan digital mereka landing pagenya adalah QUIZ. Yes, SEMUA IKLAN... Bayangin aja dengan budget advertising mereka yang sebesar $90juta tiap tahunnya, semuanya dilempar ke sebuah QUIZ. Gimana ga punya data points yang banyak...
+Dan ga kagetnya, semua iklan digital mereka landing pagenya adalah QUIZ. Bukan halaman produk, ataupun halaman marketplace, tapi QUIZ. Bayangin aja dengan budget advertising mereka yang sebesar $90juta tiap tahunnya, semuanya dilempar ke sebuah QUIZ. Gimana ga punya data points yang banyak... Flownya seperti ini: Iklan → Quiz → Minta Email → Rekomendasi Produk Berdasarkan Hasil Quiz
 
 ### Budget Marketing Gede
 Mereka ga takut punya budget marketing gede karena punya DATA. Marketing costnya aja hampir 30% dari revenue. Bisa sebesar itu pasti karena mereka punya data yang jelas tentang berapa return yang dihasilkan dari marketing cost tersebut. Dan lagi ditambah dengan...
