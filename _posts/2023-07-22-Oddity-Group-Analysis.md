@@ -8,7 +8,7 @@ tags: [css]
 [Oddity Group](https://oddity.com/) is crazy. Perusahaan beauty yang ga pernah gue denger ini baru berdiri di tahun 2018. Dan hanya dalam 5 tahun mereka bisa mencapai revenue sebesar $320m dan IPO dengan valuasi $2b! Here is my insights after reading their 663 pages of F1 fillings on the weekends:
 
 ### Data is KING! 
-Karyawan mereka 40% nya bekerja di divisi Technology, padahal jualannya Make-Up. Klaimnya adalah mereka sudah punya 1 MILIAR unique data points dari 4 JUTA customer mereka. Udah jelas ya mereka ga pake Microsoft Excel karena pasti ga kuat...
+Karyawan mereka 40% nya bekerja di divisi Technology, padahal jualannya produk beauty. Klaimnya adalah mereka sudah punya 1 MILIAR unique data points dari 4 JUTA customer mereka. Udah jelas ya mereka ga pake Microsoft Excel karena pasti ga kuat...
 
 ### Insights 
 Sebisa mungkin cari dan kumpulkan data-data penting customermu supaya bisa diproses untuk menghasilkan sebuah insight. Caranya bisa dengan bikin Landing Page yang berbentuk quiz seperti yang dilakukan Oddity Group. Atau sesimpel survey dan 1-on-1 call dengan customermu..
