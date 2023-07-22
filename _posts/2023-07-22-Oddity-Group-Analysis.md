@@ -28,5 +28,5 @@ Oddity Group punya kultur penggunaan DATA yang kuat. Dan itu keliatan dari semua
 
 ### Action plan:
    - Cari lagi customer survey dan data-data unik lainnya yang bisa digunakan untuk membantu membuat keputusan marketing dan produk.
-   - elalu gunakan data sebagai backup dalam membuat keputusan-keputusan.
+   - Selalu gunakan data sebagai backup dalam membuat keputusan-keputusan.
    - Coba eksperimen dengan bikin iklan yang dilempar ke sebuah Landing Page berbentuk Quiz. Iklan → Quiz → Rekomendasi Produk.
