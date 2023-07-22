@@ -5,16 +5,16 @@ description: Dari 0 ke $320 Juta Dalam 5 Tahun, Analisa dan Insight Dari Oddity 
 summary:
 tags: [css]
 ---
-[Oddity Group](https://oddity.com/) is crazy. Perusahaan beauty yang ga pernah gue denger ini baru berdiri di tahun 2018. Dan hanya dalam 5 tahun mereka bisa mencapai revenue sebesar $320m dan IPO dengan valuasi $2b! Here is my insights after reading their 663 pages of F1 fillings on the weekends:
+[Oddity Group](https://oddity.com/) is crazy. Perusahaan beauty yang ga pernah gue denger ini baru berdiri di tahun 2018. Dan hanya dalam 5 tahun mereka bisa mencapai revenue sebesar $320 Juta dan IPO dengan valuasi sebesar $2 Milliar! Here is my insights after reading their 663 pages of F1 fillings:
 
 ### Data is KING! 
 Karyawan mereka 40% nya bekerja di divisi Technology, padahal jualannya produk beauty. Klaimnya adalah mereka sudah punya 1 MILIAR unique data points dari 4 JUTA customer mereka. Udah jelas ya mereka ga pake Microsoft Excel karena pasti ga kuat...
 
 ### The Numbers 
 Beberapa angka finansial mereka yang sangat impressive:
-- 2020: $110.6m sales @ $11.7m net income
-- 2021: $226.6m sales @ $13.9m net income
-- 2022: $324.5m sales @ $21.7m net income
+- 2020 Revenue: $110,6 Juta @ $11,7m net income
+- 2021 Revenue : $226,6 Juta @ $13,9m net income
+- 2022 Revenue: $324,5 Juta @ $21,7m net income
 - Gross Margin 70%
 - EBITDA Margin 12%
 - 6-months Customer Repeat Rate Hampir 60%
