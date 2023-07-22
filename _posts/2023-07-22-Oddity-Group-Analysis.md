@@ -20,7 +20,7 @@ Dan ga kagetnya, semua iklan digital mereka landing pagenya adalah QUIZ. Yes, SE
 Mereka ga takut punya budget marketing gede karena punya DATA. Marketing costnya aja hampir 30% dari revenue. Bisa sebesar itu pasti karena mereka punya data yang jelas tentang berapa return yang dihasilkan dari marketing cost tersebut. Dan lagi ditambah dengan...
 
 ### Iklan mereka MANTEP! 
-Mereka selalu bikin iklan yang nyentil PROBLEM dan diakhiri dengan SOLUSINYA! Solusinya apa? Ya produk mereka. Untungnya, semua iklan yang lagi dijalanin oleh mereka bisa keliatan di Meta Ads Library: https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&view_all_page_id=1270817949729510&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped&search_type=page&media_type=all. Lumayan buat dijadiin inspirasi.
+Mereka selalu bikin iklan yang nyentil PROBLEM dan diakhiri dengan SOLUSINYA! Solusinya apa? Ya produk mereka. Untungnya, semua iklan yang lagi dijalanin oleh mereka bisa keliatan di [Meta Ads Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&view_all_page_id=1270817949729510&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped&search_type=page&media_type=all) Lumayan buat dijadiin inspirasi.
 
 
 ### In summary: 
