@@ -13,8 +13,8 @@ Karyawan mereka 40% nya bekerja di divisi Technology, padahal jualannya produk b
 ### The Numbers 
 Beberapa angka finansial mereka yang sangat impressive:
 - 2020 Revenue: $110,6 Juta @ $11,7 Juta net income
-- 2021 Revenue : $226,6 Juta @ $13,9m Juta income
-- 2022 Revenue: $324,5 Juta @ $21,7m Juta income
+- 2021 Revenue : $226,6 Juta @ $13,9 Juta income
+- 2022 Revenue: $324,5 Juta @ $21,7 Juta income
 - Gross Margin 70%
 - EBITDA Margin 12%
 - 6-months Customer Repeat Rate Hampir 60%
