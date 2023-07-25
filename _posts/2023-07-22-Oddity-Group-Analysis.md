@@ -21,7 +21,7 @@ Karyawan mereka 40% nya bekerja di divisi Technology, padahal jualannya produk b
 
 Tapi jika ternyata data ini di back office mereka bisa dipakai dan dianalisa dengan baik, ya bisa aja klaim Data is KING ini benar.
 
-## Budget Marketing Gede
+### Budget Marketing Gede
 Mereka ga takut punya budget marketing gede karena punya DATA. Marketing costnya aja hampir 30% dari revenue. Bisa sebesar itu pasti karena mereka punya data yang jelas tentang berapa return yang dihasilkan dari marketing cost tersebut. Dan lagi ditambah dengan...
 
 ### Websitenya Berbentuk Quiz
@@ -47,6 +47,8 @@ Apakah mereka masochist? Tentu ngga. Hal ini bisa dibilang adalah sangat sengaja
 Justru, kalau LP kamu quiz kamu harus bisa membuat hasil akhir di quiz itu bener-bener terasa personalized dan tailored only for you. Dengan adanya produk foundation mereka yang punya 50 variasi, mereka bisa mencocokkan hasil response quiz customer mereka dengan variasi produk yang sangat ter-rekomendasi buat customernya. Menurut gue, di sini adalah kunci dari kekuatan Oddity Group dengan brand IL MAKIAGE nya. Mereka berani investasi bikin produk dengan variasi yang sangat beragam karena mereka dari awal sudah memikirikan funnel yang paling optimal untuk memarketingkan produk mereka ini. Mereka sudah yakin lah, dengan adanya Quiz yang sangat personalized dan produk yang juga direkomendasikan dengan sangat personalized, kemungkinan besar customer mereka akan mencoba dan membeli produk mereka. 
 
 ### In summary: 
+
+
 
 ### Action plan:
    - Cari lagi customer survey dan data-data unik lainnya yang bisa digunakan untuk membantu membuat keputusan marketing dan produk.
