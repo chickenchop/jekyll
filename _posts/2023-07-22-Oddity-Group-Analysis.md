@@ -54,3 +54,4 @@ Justru, kalau LP kamu quiz kamu harus bisa membuat hasil akhir di quiz itu bener
    - Cari lagi customer survey dan data-data unik lainnya yang bisa digunakan untuk membantu membuat keputusan marketing dan produk.
    - Selalu gunakan data sebagai backup dalam membuat keputusan-keputusan.
    - Coba eksperimen dengan bikin iklan yang dilempar ke sebuah Landing Page berbentuk Quiz. Iklan → Quiz → Rekomendasi Produk.
+   - Mindset yang menghubungkan pembuatan produk dan customer acquisition best practice. 
