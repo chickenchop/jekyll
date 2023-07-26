@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hey.
+title: Hello.
 ---
 
 **Aditya dalam 10 detik**:
