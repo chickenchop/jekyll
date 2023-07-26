@@ -18,8 +18,9 @@ Beberapa angka finansial mereka yang sangat impressive:
 
 ## My Insights
 ### Websitenya Berbentuk Quiz
-Semua digital marketing mereka landing pagenya (LP) adalah QUIZ. Bukan halaman produk, ataupun halaman marketplace, tapi QUIZ. Aneh... Biasanya brand lain akan melempar mereka ke sebuah LP yang berbentuk Product Page, ataupun Marketplace. Tapi ini QUIZ. Makanya itu ini adalah insight pertama yang gue dapet dari mereka, pasti ada sesuatu dari ke "aneh" an ini. Kalau ditelusuri via Meta Ads Librarynya, funnel mereka adalah seperti ini: Iklan → Quiz → Minta Email → Rekomendasi Produk.
+Semua digital marketing mereka landing pagenya (LP) adalah QUIZ. Kalau ditelusuri via Meta Ads Librarynya, funnel mereka adalah seperti ini: Iklan → Quiz → Minta Email → Rekomendasi Produk. Bukan halaman produk, ataupun halaman marketplace, tapi QUIZ. Aneh... Biasanya brand lain akan melempar mereka ke sebuah LP yang berbentuk Product Page, ataupun Marketplace. Tapi ini QUIZ. Pasti ada sesuatu dari ke "aneh" an ini. Dan ternyata itu kejawab di point terakhir gue.
 
+### Email Collection
 Coba kita lihat lagi funnelnya. Menurut gue ada satu elemen yang menarik dari funnel tersebut. Coba kalian cari. 
 
 Gue tungguin... 
