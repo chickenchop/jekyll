@@ -5,56 +5,49 @@ description: Dari 0 ke $320 Juta Dalam 5 Tahun, Analisa dan Insight Dari Oddity 
 summary:
 tags: [css]
 ---
-[Oddity Group](https://oddity.com/) is crazy. Perusahaan beauty yang ga pernah gue denger ini baru berdiri di tahun 2018. Dan hanya dalam 5 tahun mereka bisa mencapai revenue sebesar $320 Juta dan IPO dengan valuasi sebesar $2 Milliar! Here is my insights after reading their 663 pages of F1 fillings:
+[Oddity Group](https://oddity.com/) dengan brandnya IL MAKIAGE is a crazy story. Perusahaan beauty yang ga pernah gue denger ini baru aja berdiri di tahun 2018 dan hanya dalam 5 tahun mereka bisa mencapai revenue sebesar $320 Juta! Ga cuma itu, mereka baru aja melakukan Initial Public Offering (IPO) dengan valuasi sebesar $2 Milliar! Here is my insights after reading their 663 pages of IPO document:
 
-### The Numbers 
+## The Numbers 
 Beberapa angka finansial mereka yang sangat impressive:
 - 2020 Revenue: $110,6 Juta @ $11,7 Juta net income
-- 2021 Revenue : $226,6 Juta @ $13,9 Juta income
-- 2022 Revenue: $324,5 Juta @ $21,7 Juta income
+- 2021 Revenue : $226,6 Juta @ $13,9 Juta net income
+- 2022 Revenue: $324,5 Juta @ $21,7 Juta net income
 - Gross Margin 70%
 - EBITDA Margin 12%
 - 6-months Customer Repeat Rate Hampir 60%
 
-### Data is KING! Or is it? 
-Karyawan mereka 40% nya bekerja di divisi Technology, padahal jualannya produk beauty. Klaimnya adalah mereka sudah punya 1 MILIAR unique data points dari 4 JUTA customer mereka. Walaupun begitu, gue ga gitu yakin dengan "pom-pom" berkedok data. Dari yang gue baca, sebenernya data points mereka juga tidak spesial banget (dapetnya dari quiz, expanded on next section). Jaman sekarang sejujurnya hampir semua brand sudah ada campur tangan ML/AI di operationalnya. Brandmu ngiklan di Meta Ads? Congrats. Kamu baru aja pake teknologi ML dan AI. 
-
-Tapi jika ternyata data ini di back office mereka bisa dipakai dan dianalisa dengan baik, ya bisa aja klaim Data is KING ini benar.
-
-Pertanyaan selanjutnya, dari mana mereka bisa dapet data sebanyak itu? Kita bahas di poin selanjutnya.
-
+## My Insights
 ### Websitenya Berbentuk Quiz
-Semua iklan digital mereka landing pagenya (LP) adalah QUIZ. Bukan halaman produk, ataupun halaman marketplace, tapi QUIZ. Bayangin aja dengan budget advertising mereka yang sebesar $90 juta tiap tahunnya, semua trafficnya dilempar ke sebuah QUIZ. Gimana ga punya data points yang banyak... Flownya seperti ini: Iklan → Quiz → Minta Email → Rekomendasi Produk Berdasarkan Hasil Quiz
+Semua digital marketing mereka landing pagenya (LP) adalah QUIZ. Bukan halaman produk, ataupun halaman marketplace, tapi QUIZ. Aneh... Biasanya brand lain akan melempar mereka ke sebuah LP yang berbentuk Product Page, ataupun Marketplace. Tapi ini QUIZ. Makanya itu ini adalah insight pertama yang gue dapet dari mereka, pasti ada sesuatu dari ke "aneh" an ini. Kalau ditelusuri via Meta Ads Librarynya, funnel mereka adalah seperti ini: Iklan → Quiz → Minta Email → Rekomendasi Produk.
 
+Coba kita lihat lagi funnelnya. Menurut gue ada satu elemen yang menarik dari funnel tersebut. Coba kalian cari. 
 
-### Budget Marketing Gede
-Mereka ga takut punya budget marketing gede karena punya DATA. Marketing costnya aja hampir 30% dari revenue. Bisa sebesar itu pasti karena mereka punya data yang jelas tentang berapa return yang dihasilkan dari marketing cost tersebut. Dan lagi ditambah dengan...
+Gue tungguin... 
+Udah? Nemu?
 
-### Funnel Quiz Yang Dioptimisasi Untuk Pengumpulan Data
-Funnel mereka semua selalu diakhiri dengan Minta Email. Sebelum rekomendasi produknya mereka tampilin, mereka selalu minta email. Data email ini lah yang gue rasa sebenernya valuable banget. Kenapa? Karena dengan adanya email, mereka bisa terlepas dari platform risk. Artinya, walaupun tiba-tiba besok Meta atau TikTok biaya iklannya naik 10x lipat pun, mereka setidaknya masih punya database email yang mereka bisa gunakan untuk distribusi marketing mereka. 
+Kalau jawabannya adalah "Minta Email", congrats, insights kita sama. Mereka SELALU menyisipkan "Minta Email" di funnelnya. Sebelum rekomendasi produknya ditampilin, mereka selalu minta email terlebih dahulu. Kenapa? Karena data email ini lah yang valuable banget. Karena dengan adanya email, mereka bisa terlepas dari platform-risk. Artinya, walaupun tiba-tiba besok Meta atau TikTok biaya iklannya naik 10x lipat pun, mereka setidaknya masih punya database email yang mereka bisa gunakan untuk distribusi marketing mereka. Dan ga cuma itu, dengan adanya data email yang melekat ke behaviour purchase customernya, mereka bisa dengan akurat melakukan remarketing via email yang berkontribusi terhadap angka repeat rate mereka yang fantastis.
 
-Dan ga cuma itu, dengan adanya data email yang melekat ke behaviour purchase customernya, mereka bisa dengan akurat melakukan remarketing via email yang berkontribusi terhadap angka repeat rate mereka yang fantastis.
+Hal ini yang jarang dilakukan oleh brand di Indonesia. Entah kenapa, apakah mungkin email tidak begitu bernilai di sini? Tapi kayaknya ini sesuatu yang perlu dicoba. 
 
 ### Iklan mereka MANTEP! 
-Percuma punya budget $90 juta kalau iklannya jelek. Dan untungnya, iklan mereka mantep banget! Mereka selalu bikin iklan yang nyentil PROBLEM dan diakhiri dengan SOLUSINYA! Solusinya apa? Ya produk mereka. Untungnya, semua iklan yang lagi dijalanin oleh mereka bisa keliatan di [Meta Ads Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&view_all_page_id=1270817949729510&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped&search_type=page&media_type=all) Lumayan buat dijadiin inspirasi.
+Percuma punya budget $90 juta kalau iklannya jelek. Dan untungnya, iklan mereka mantep banget! Mereka selalu bikin iklan yang nyentil PROBLEM dan diakhiri dengan SOLUSINYA! Solusinya apa? Ya produk mereka. Untungnya, semua iklan yang lagi dijalanin oleh mereka bisa keliatan di [Meta Ads Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&view_all_page_id=1270817949729510&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped&search_type=page&media_type=all). 
+
+Hampir semua dari iklan mereka mengikuti template berikut: Problem -> Solution
+
+Kasih tunjuk problem di awal videonya, lalu kasih solusinya. Simpel. And it works!
 
 ### Product Variety 
-Satu produk best seller mereka, Foundation, itu aja bisa punya 50 varian. Mungkin kalian yang punya brand fashion bisa relate, seberapa susahnya punya sebuah produk yang punya 6 sizes dan 3 warna dalam satu artikel.
+Satu tipe produk best seller mereka, [Wake Up Like This Foundation](https://www.ilmakiage.com/shop-all/featured-products/212-66010-woke-up-like-this), itu aja punya 50 varian. Mungkin kalian yang punya brand fashion bisa relate, seberapa susahnya punya sebuah produk yang punya 6 sizes dan 3 warna dalam satu artikel.
 
-Ini mereka punya 50 varian dalam satu produk aja. 
+Ini mereka punya 50 varian... 
 
-Apakah mereka masochist? Tentu ngga. Hal ini bisa dibilang adalah sangat sengaja mereka lakukan. Kenapa? Inget poin di awal tadi, website dan landing page mereka semua berbentuk quiz. Ngga ada gunanya kalau LP bentuknya quiz tapi tidak ada elemen personalisasi di dalamnya. 
+Hal ini bisa dibilang sangat sengaja mereka lakukan. Kenapa? Inget poin di awal tadi, website dan landing page mereka semua berbentuk quiz. Ngga ada gunanya kalau LP bentuknya quiz tapi tidak ada elemen personalisasi di dalamnya kan. Nah, dengan adanya produk foundation mereka yang punya 50 variasi, mereka bisa mencocokkan hasil quiznya dengan variasi produk yang sangat terpersonalisasi buat customernya. 
 
-Justru, kalau LP kamu quiz kamu harus bisa membuat hasil akhir di quiz itu bener-bener terasa personalized dan tailored only for you. Dengan adanya produk foundation mereka yang punya 50 variasi, mereka bisa mencocokkan hasil response quiz customer mereka dengan variasi produk yang sangat ter-rekomendasi buat customernya. 
-
-Menurut gue, di sini adalah kunci dari kekuatan Oddity Group dengan brand IL MAKIAGE nya. Mereka berani investasi bikin produk dengan variasi yang sangat beragam karena mereka dari awal sudah memikirikan funnel yang paling optimal untuk produk mereka ini. Mereka sudah yakin lah, dengan adanya Quiz yang sangat personalized dan produk yang juga direkomendasikan dengan sangat personalized, kemungkinan besar customer mereka akan mencoba dan membeli produk mereka - alias conversion ratenya tinggi. 
-
-### In summary: 
+Menurut gue, di sini adalah kunci dari kekuatan Oddity Group dengan brand IL MAKIAGE nya. Mereka berani investasi bikin produk dengan variasi yang sangat beragam karena mereka dari awal sudah memikirikan funnel yang paling optimal untuk produk mereka ini. Mereka sudah yakin, dengan adanya Quiz dan produk yang direkomendasikan dengan sangat personalized, kemungkinan besar customer mereka akan mau mencoba dan membeli produk mereka. Seakan-akan IL MAKIAGE membuat sebuah produk ini khusus buat si customer yang ngisi quiz tersebut. Alhasil, gue yakin conversion rate mereka tinggi sekali.
 
 
-
-### Action plan:
-   - Cari lagi customer survey dan data-data unik lainnya yang bisa digunakan untuk membantu membuat keputusan marketing dan produk.
-   - Selalu gunakan data sebagai backup dalam membuat keputusan-keputusan.
-   - Coba eksperimen dengan bikin iklan yang dilempar ke sebuah Landing Page berbentuk Quiz. Iklan → Quiz → Rekomendasi Produk.
-   - Mindset yang menghubungkan pembuatan produk dan customer acquisition best practice. 
+### Action Plan For Us!:
+   - Mulai kumpulin email customer dan jadikan email sebagai remarketing channel.
+   - Bikin iklan yang simpel but well executed. Jangan overthinking. Ikutin aja template yang terbukti.
+   - Cari sebuah produk yang sudah ada sekarang dan pasangkan dengan cara digital marketing berlanding page Quiz.
+   - Tingkatan agresivitas dalam beriklan jika angkanya sudah menunjukkan kalau itu untung.
