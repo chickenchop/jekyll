@@ -13,11 +13,7 @@ Silahkan ke halaman ini -> [Now](/now)
 
 **Cara menghubungi**:
 
-Tempat terbaik adalah [twitter](https://www.twitter.com/aditya_dst)
-
-**Pernah muncul di**:
-
-NET TV, PasFM, Travel360 AirAsia
+Tempat terbaik adalah [twitter](https://www.twitter.com/aditya_dst) & [Instagram](https://www.instagram.com/aditya.dst).
 
 **5 artikel/buku yang di baca ulang secara reguler:**
 
