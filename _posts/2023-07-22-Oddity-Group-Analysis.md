@@ -46,9 +46,11 @@ Hal ini bisa dibilang sangat sengaja mereka lakukan. Kenapa? Inget poin di awal 
 
 Menurut gue, di sini adalah kunci dari kekuatan Oddity Group dengan brand IL MAKIAGE nya. Mereka berani investasi bikin produk dengan variasi yang sangat beragam karena mereka dari awal sudah memikirikan funnel yang paling optimal untuk produk mereka ini. Mereka sudah yakin, dengan adanya Quiz dan produk yang direkomendasikan dengan sangat personalized, kemungkinan besar customer mereka akan mau mencoba dan membeli produk mereka. Seakan-akan IL MAKIAGE membuat sebuah produk ini khusus buat si customer yang ngisi quiz tersebut. Alhasil, gue yakin conversion rate mereka tinggi sekali.
 
+### In Summary:
+Kombinasi dari personalisasi produk yang ga neko-neko, sinergi marketing dengan produk yang bagus, dan funnel yang sangat converting, bisa bikin IL MAKIAGE sebagai brand yang bernilai 0 di tahun 2018 menjadi sebuah perusahaan raksasa bernilai $2 milliar di tahun 2023. Tentu, pasti banyak hal lain yang mereka lakukan sehingga mereka bisa menjadi perusahaan beauty raksasa seperti sekarang. Namun, poin-poin yang gue bahas ini sepertinya adalah poin yang paling menonjol dan paling relevan untuk kita "tiru" di brand kita sendiri. Karena itu, gue udah bikin note to self sebagai pengakhir analisa ini:
 
-### Action Plan For Us!:
+### Action Plan For Us!
    - Mulai kumpulin email customer dan jadikan email sebagai remarketing channel.
    - Bikin iklan yang simpel but well executed. Jangan overthinking. Ikutin aja template yang terbukti.
-   - Cari sebuah produk yang sudah ada sekarang dan pasangkan dengan cara digital marketing berlanding page Quiz.
+   - Cari sebuah produk yang sudah ada sekarang dan pasangkan dengan digital marketing yang mempunyai elemen personalisasi (Quiz).
    - Tingkatan agresivitas dalam beriklan jika angkanya sudah menunjukkan kalau itu untung.
