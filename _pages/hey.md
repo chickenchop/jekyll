@@ -5,7 +5,7 @@ title: Hey.
 
 **Aditya dalam 10 detik**:
 
-Penggemar olahraga, terutama basket. Tertarik dengan bisnis, internet, olahraga, dan edukasi. [Berbisnis](https://instagram.com/atalon.id) sejak umur 23 tahun. Sebelum itu sempat jadi karyawan (atau lebih tepatnya karyawan yang di gaji untuk belajar) di [salestock.com, sekarang Sorabel.com](https://instagram.com/sorabelofficial). Lebih suka bekerja di banding [kuliah](https://www.unimelb.edu.au). Tidak selesai SMA karena di suruh merantau ke luar negeri. 
+Penggemar olahraga, terutama NBA dan EPL. Tertarik dengan bisnis, internet, olahraga, dan edukasi. Mulai [berbisnis dengan bikin brand olahraga](https://instagram.com/atalon.id) sejak umur 23 tahun. Sebelum itu sempat jadi karyawan (atau lebih tepatnya karyawan yang di gaji untuk belajar) di [salestock.com, sekarang Sorabel.com](https://instagram.com/sorabelofficial). Lebih suka bekerja di banding [kuliah](https://www.unimelb.edu.au). Tidak selesai SMA karena di suruh merantau ke luar negeri. 
 
 **Yang lagi di kerjakan**:
 
