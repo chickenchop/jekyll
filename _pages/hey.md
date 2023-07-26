@@ -13,7 +13,7 @@ Silahkan ke halaman ini -> [Now](/now)
 
 **Cara menghubungi**:
 
-Tempat terbaik adalah [twitter](https://www.twitter.com/aditya_dst) & [Instagram](https://www.instagram.com/aditya.dst).
+Tempat terbaik adalah [Twitter](https://www.twitter.com/aditya_dst) & [Instagram](https://www.instagram.com/aditya.dst).
 
 **5 artikel/buku yang di baca ulang secara reguler:**
 
