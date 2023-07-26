@@ -31,7 +31,7 @@ Kalau jawabannya adalah "Minta Email", congrats, insights kita sama. Mereka SELA
 Hal ini yang jarang dilakukan oleh brand di Indonesia. Entah kenapa, apakah mungkin email tidak begitu bernilai di sini? Tapi kayaknya ini sesuatu yang perlu dicoba. 
 
 ### Iklan mereka MANTEP! 
-Percuma punya budget $90 juta kalau iklannya jelek. Dan untungnya, iklan mereka mantep banget! Mereka selalu bikin iklan yang nyentil PROBLEM dan diakhiri dengan SOLUSINYA! Solusinya apa? Ya produk mereka. Untungnya, semua iklan yang lagi dijalanin oleh mereka bisa keliatan di [Meta Ads Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&view_all_page_id=1270817949729510&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped&search_type=page&media_type=all). 
+Percuma websitenya keren, landing pagenya unik, tapi iklannya jelek. Dan untungnya, iklan mereka mantep banget! Mereka selalu bikin iklan yang nyentil PROBLEM di awal dan diakhiri dengan SOLUSINYA! Solusinya apa? Ya produk mereka. Untungnya, semua iklan yang lagi dijalanin oleh mereka bisa keliatan di [Meta Ads Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&view_all_page_id=1270817949729510&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped&search_type=page&media_type=all). 
 
 Hampir semua dari iklan mereka mengikuti template berikut: Problem -> Solution
 
