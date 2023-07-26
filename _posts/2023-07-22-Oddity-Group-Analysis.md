@@ -3,7 +3,7 @@ layout: post
 title: Dari 0 ke $320 Juta Dalam 5 Tahun, Analisa dan Insight Dari Oddity Group (IL MAKIAGE)
 description: Dari 0 ke $320 Juta Dalam 5 Tahun, Analisa dan Insight Dari Oddity Group (IL MAKIAGE)
 summary:
-tags: [css]
+tags: [IL MAKIAGE, Oddity, ecommerce, brand]
 ---
 [Oddity Group](https://oddity.com/) dengan brandnya IL MAKIAGE is a crazy story. Perusahaan beauty yang ga pernah gue denger ini baru aja berdiri di tahun 2018 dan hanya dalam 5 tahun mereka bisa mencapai revenue sebesar $320 Juta! Ga cuma itu, mereka baru aja melakukan Initial Public Offering (IPO) dengan valuasi sebesar $2 Milliar! Here is my insights after reading their 663 pages of IPO document:
 
