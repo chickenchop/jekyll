@@ -38,9 +38,9 @@ Hampir semua dari iklan mereka mengikuti template berikut: Problem -> Solution
 Kasih tunjuk problem di awal videonya, lalu kasih solusinya. Simpel. And it works!
 
 ### Product Variety 
-Satu tipe produk best seller mereka, [Wake Up Like This Foundation](https://www.ilmakiage.com/shop-all/featured-products/212-66010-woke-up-like-this), itu aja punya 50 varian. Mungkin kalian yang punya brand fashion bisa relate, seberapa susahnya punya sebuah produk yang punya 6 sizes dan 3 warna dalam satu artikel.
+Salah satu produk best seller mereka, [Wake Up Like This Foundation](https://www.ilmakiage.com/shop-all/featured-products/212-66010-woke-up-like-this), punya 50 variasi. Mungkin kalian yang punya brand fashion bisa relate, seberapa susahnya punya sebuah produk yang punya 6 sizes dan 3 warna dalam satu artikel.
 
-Ini mereka punya 50 varian... 
+Ini mereka punya 50 variasi warna... 
 
 Hal ini bisa dibilang sangat sengaja mereka lakukan. Kenapa? Inget poin di awal tadi, website dan landing page mereka semua berbentuk quiz. Ngga ada gunanya kalau LP bentuknya quiz tapi tidak ada elemen personalisasi di dalamnya kan. Nah, dengan adanya produk foundation mereka yang punya 50 variasi, mereka bisa mencocokkan hasil quiznya dengan variasi produk yang sangat terpersonalisasi buat customernya. 
 
